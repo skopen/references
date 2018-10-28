@@ -28,6 +28,9 @@ YOLO - You Only Look Once: Unified, Real-Time Object Detection:
 * On the Properties of Neural Machine Translation: Encoder–Decoder
 Approaches: https://arxiv.org/pdf/1409.1259.pdf
 * Linguistic Regularities in Continuous Space Word Representations: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+* Distributed Representations of Words and Phrases
+and their Compositionality: https://arxiv.org/pdf/1310.4546.pdf
+* A Neural Probabilistic Language Model: http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 
 #### Visualization:
 Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
