@@ -32,6 +32,8 @@ Approaches: https://arxiv.org/pdf/1409.1259.pdf
 and their Compositionality: https://arxiv.org/pdf/1310.4546.pdf
 * A Neural Probabilistic Language Model: http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 * GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/pubs/glove.pdf
+* Man is to Computer Programmer as Woman is to Homemaker?
+Debiasing Word Embeddings: https://arxiv.org/pdf/1607.06520.pdf
 
 #### Visualization:
 Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
