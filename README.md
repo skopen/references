@@ -42,6 +42,8 @@ with Neural Networks: https://arxiv.org/pdf/1409.3215.pdf
 for Statistical Machine Translation: https://arxiv.org/pdf/1406.1078.pdf
 * DEEP CAPTIONING WITH MULTIMODAL RECURRENT
 NEURAL NETWORKS (M-RNN): https://arxiv.org/pdf/1412.6632.pdf
+* Show and Tell: A Neural Image Caption Generator: https://arxiv.org/pdf/1411.4555.pdf
+* Deep Visual-Semantic Alignments for Generating Image Descriptions: https://arxiv.org/pdf/1412.2306.pdf
 
 #### Visualization:
 Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
