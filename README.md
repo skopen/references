@@ -13,23 +13,23 @@ Traffic Sign Recognition with Multi-Scale Convolutional Networks:
 YOLO - You Only Look Once: Unified, Real-Time Object Detection:
 * https://arxiv.org/pdf/1506.02640.pdf
 
-Kalman Filters:
+#### Kalman Filters:
 * https://www.cl.cam.ac.uk/~rmf25/papers/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter.pdf
 * https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 * https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr
 * Expected Value of a random variable squared & products of two random variables: http://animalscience2.ucdavis.edu/ggg201d/references/expected_value.html
 * Covariance Explanation: https://www.youtube.com/watch?v=ieL0jxzLhCE
 
-CNNs:
+#### CNNs:
 * Visualizing and Understanding Convolutional Networks: https://arxiv.org/pdf/1311.2901.pdf
 * A Neural Algorithm of Artistic Style: https://arxiv.org/pdf/1508.06576.pdf
 
-RNN:
+#### RNNs:
 * On the Properties of Neural Machine Translation: Encoder–Decoder
 Approaches: https://arxiv.org/pdf/1409.1259.pdf
 * Linguistic Regularities in Continuous Space Word Representations: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 
-Visualization:
+#### Visualization:
 Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
 
 ### Courses
