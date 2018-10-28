@@ -24,6 +24,14 @@ CNNs:
 * Visualizing and Understanding Convolutional Networks: https://arxiv.org/pdf/1311.2901.pdf
 * A Neural Algorithm of Artistic Style: https://arxiv.org/pdf/1508.06576.pdf
 
+RNN:
+* On the Properties of Neural Machine Translation: Encoder–Decoder
+Approaches: https://arxiv.org/pdf/1409.1259.pdf
+* Linguistic Regularities in Continuous Space Word Representations: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+
+Visualization:
+Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+
 ### Courses
 CNN for Visual Recognition (Stanford):
 * http://cs231n.github.io/
