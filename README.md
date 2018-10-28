@@ -36,6 +36,10 @@ and their Compositionality: https://arxiv.org/pdf/1310.4546.pdf
 Debiasing Word Embeddings: https://arxiv.org/pdf/1607.06520.pdf
 * A Theoretically Grounded Application of Dropout in
 Recurrent Neural Networks: https://arxiv.org/pdf/1512.05287.pdf
+* Sequence to Sequence Learning
+with Neural Networks: https://arxiv.org/pdf/1409.3215.pdf
+* Learning Phrase Representations using RNN Encoder–Decoder
+for Statistical Machine Translation: https://arxiv.org/pdf/1406.1078.pdf
 
 #### Visualization:
 Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
