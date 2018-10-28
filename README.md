@@ -31,6 +31,7 @@ Approaches: https://arxiv.org/pdf/1409.1259.pdf
 * Distributed Representations of Words and Phrases
 and their Compositionality: https://arxiv.org/pdf/1310.4546.pdf
 * A Neural Probabilistic Language Model: http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
+* GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/pubs/glove.pdf
 
 #### Visualization:
 Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
