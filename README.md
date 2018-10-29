@@ -44,6 +44,7 @@ for Statistical Machine Translation: https://arxiv.org/pdf/1406.1078.pdf
 NEURAL NETWORKS (M-RNN): https://arxiv.org/pdf/1412.6632.pdf
 * Show and Tell: A Neural Image Caption Generator: https://arxiv.org/pdf/1411.4555.pdf
 * Deep Visual-Semantic Alignments for Generating Image Descriptions: https://arxiv.org/pdf/1412.2306.pdf
+* BLEU: a Method for Automatic Evaluation of Machine Translation: https://www.aclweb.org/anthology/P02-1040.pdf
 
 #### Visualization:
 Visualizing Data using t-SNE: http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
